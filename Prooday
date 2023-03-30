@@ -1,0 +1,7 @@
+new_project
+├── antigravity
+│   ├── __init__.py         # make it a package
+│   └── antigravity.py
+└── test
+    ├── __init__.py         # also make test a package
+    └── test_antigravity.py
